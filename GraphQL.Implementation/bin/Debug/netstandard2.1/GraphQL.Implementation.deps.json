@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "GraphQL.Implementation/1.0.0": {
+        "dependencies": {
+          "GraphyQL.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GraphQL.Implementation.dll": {}
+        }
+      },
+      "GraphyQL.Domain/1.0.0": {
+        "runtime": {
+          "GraphyQL.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GraphQL.Implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GraphyQL.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

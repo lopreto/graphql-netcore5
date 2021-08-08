@@ -1,0 +1,9 @@
+C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphyQL.Domain\bin\Debug\netstandard2.1\GraphyQL.Domain.deps.json
+C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphyQL.Domain\bin\Debug\netstandard2.1\GraphyQL.Domain.dll
+C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphyQL.Domain\bin\Debug\netstandard2.1\GraphyQL.Domain.pdb
+C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphyQL.Domain\obj\Debug\netstandard2.1\GraphyQL.Domain.csprojAssemblyReference.cache
+C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphyQL.Domain\obj\Debug\netstandard2.1\GraphyQL.Domain.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphyQL.Domain\obj\Debug\netstandard2.1\GraphyQL.Domain.AssemblyInfo.cs
+C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphyQL.Domain\obj\Debug\netstandard2.1\GraphyQL.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphyQL.Domain\obj\Debug\netstandard2.1\GraphyQL.Domain.dll
+C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphyQL.Domain\obj\Debug\netstandard2.1\GraphyQL.Domain.pdb
