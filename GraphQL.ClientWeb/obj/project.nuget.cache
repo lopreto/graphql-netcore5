@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+c4AItBlSb0N1mSDdDswiFZq71WH5zOz7Hvy4dmK5JqqR69lnUOUx2gJ+psBBO238oSSVblZqELrCZfeeiykQ==",
+  "dgSpecHash": "0zebI3kUFKYWc/bXeFTOX4M9HIAcmjOSFzA4a/oKJjZl+q6mL1Cpjk+wM9lJ7yGPOO1wwFjqia7XL4XmIEjCsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphQL.ClientWeb\\GraphQL.ClientWeb.csproj",
+  "projectFilePath": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.ClientWeb\\GraphQL.ClientWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\graphql.client\\3.2.4\\graphql.client.3.2.4.nupkg.sha512",
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\graphql.client.abstractions\\3.2.4\\graphql.client.abstractions.3.2.4.nupkg.sha512",

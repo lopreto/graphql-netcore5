@@ -8,7 +8,7 @@ namespace GraphQL.Infrastructure.IRepositories
 {
     public interface ICompanyRepository
     {
-        public List<Company> GetAllCompaniesOnly();
+        Task<List<Company>> GetAllCompaniesOnly();
         Task<Company> CreateCompany(Company department);
     }
 }

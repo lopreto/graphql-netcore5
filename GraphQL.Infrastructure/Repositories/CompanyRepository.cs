@@ -17,9 +17,9 @@ namespace GraphQL.Infrastructure.Repositories
             _dbContext = dbContext;
         }
 
-        public List<Company> GetAllCompaniesOnly()
+        public async Task<List<Company>> GetAllCompaniesOnly()
         {
-            return _dbContext.Companies.ToList();
+            return await _dbContext.Companies.ToListAsync();
         }
 
         public async Task<Company> CreateCompany(Company department)

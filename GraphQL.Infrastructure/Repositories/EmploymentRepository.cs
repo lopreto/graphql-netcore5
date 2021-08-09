@@ -18,17 +18,17 @@ namespace GraphQL.Infrastructure.Repositories
             _dbContext = sampleAppDbContext;
         }
 
-        public List<Employment> GetEmployees()
+        public async Task<List<Employment>> GetEmployees()
         {
-            return _dbContext.Employments.ToList();
+            return await _dbContext.Employments.ToListAsync();
         }
 
-        public Employment GetEmployeeById(Guid id)
+        public async Task<Employment> GetEmployeeById(Guid id)
         {
-            var employee = _dbContext.Employments
+            var employee = await _dbContext.Employments
                 .Include(e => e.Company)
                 .Where(e => e.Id == id)
-                .FirstOrDefault();
+                .FirstOrDefaultAsync();
 
             if (employee != null)
                 return employee;
@@ -36,11 +36,11 @@ namespace GraphQL.Infrastructure.Repositories
             return null;
         }
 
-        public List<Employment> GetEmployeesWithCompany()
+        public async Task<List<Employment>> GetEmployeesWithCompany()
         {
-            return _dbContext.Employments
+            return await _dbContext.Employments
                 .Include(e => e.Company)
-                .ToList();
+                .ToListAsync();
         }
 
         public async Task<Employment> CreateEmployee(Employment employee)

@@ -1,22 +1,15 @@
+using GraphQL.Domain.IServices;
 using GraphQL.Implementation;
 using GraphQL.Infrastructure.DataAccess;
-using GraphQL.Infrastructure.GraphQLQuery;
 using GraphQL.Infrastructure.IRepositories;
 using GraphQL.Infrastructure.Repositories;
-using GraphyQL.Domain.IServices;
+using GraphQL.WebApi.GraphQLConfiguration;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace GraphQL.WebApi
 {

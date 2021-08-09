@@ -7,3 +7,12 @@ C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphQL.Infrastructure\obj\Debug\n
 C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphQL.Infrastructure\obj\Debug\netstandard2.1\GraphQL.Infrastructure.dll
 C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphQL.Infrastructure\obj\Debug\netstandard2.1\GraphQL.Infrastructure.pdb
 C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphQL.Infrastructure\obj\Debug\netstandard2.1\GraphQL.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Infrastructure\bin\Debug\netstandard2.1\GraphQL.Infrastructure.deps.json
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Infrastructure\bin\Debug\netstandard2.1\GraphQL.Infrastructure.dll
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Infrastructure\bin\Debug\netstandard2.1\GraphQL.Infrastructure.pdb
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Infrastructure\obj\Debug\netstandard2.1\GraphQL.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Infrastructure\obj\Debug\netstandard2.1\GraphQL.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Infrastructure\obj\Debug\netstandard2.1\GraphQL.Infrastructure.AssemblyInfo.cs
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Infrastructure\obj\Debug\netstandard2.1\GraphQL.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Infrastructure\obj\Debug\netstandard2.1\GraphQL.Infrastructure.dll
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Infrastructure\obj\Debug\netstandard2.1\GraphQL.Infrastructure.pdb

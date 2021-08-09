@@ -1,0 +1,17 @@
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphyQL.Domain\bin\Debug\netstandard2.1\GraphQL.Domain.deps.json
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphyQL.Domain\bin\Debug\netstandard2.1\GraphQL.Domain.dll
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphyQL.Domain\bin\Debug\netstandard2.1\GraphQL.Domain.pdb
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphyQL.Domain\obj\Debug\netstandard2.1\GraphQL.Domain.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphyQL.Domain\obj\Debug\netstandard2.1\GraphQL.Domain.AssemblyInfo.cs
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphyQL.Domain\obj\Debug\netstandard2.1\GraphQL.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphyQL.Domain\obj\Debug\netstandard2.1\GraphQL.Domain.dll
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphyQL.Domain\obj\Debug\netstandard2.1\GraphQL.Domain.pdb
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Domain\bin\Debug\netstandard2.1\GraphQL.Domain.deps.json
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Domain\bin\Debug\netstandard2.1\GraphQL.Domain.dll
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Domain\bin\Debug\netstandard2.1\GraphQL.Domain.pdb
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Domain\obj\Debug\netstandard2.1\GraphQL.Domain.csprojAssemblyReference.cache
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Domain\obj\Debug\netstandard2.1\GraphQL.Domain.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Domain\obj\Debug\netstandard2.1\GraphQL.Domain.AssemblyInfo.cs
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Domain\obj\Debug\netstandard2.1\GraphQL.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Domain\obj\Debug\netstandard2.1\GraphQL.Domain.dll
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Domain\obj\Debug\netstandard2.1\GraphQL.Domain.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UvWpqu9/8bE/nM7ItxZxTIrQ5jvUPBJmMki4BDBzWJnzBPLZ0Le0MFumV0DjB9bpEuE3YNNTjaS8KSphUxOqYg==",
+  "dgSpecHash": "k/ZUIXGVqoFQwsk7/P4XfaSfbCkCtH01u2BRY7ymwB0UXF9u2DAfvlJdotYGrJSblBqF7DBE++RdDpezZBhruw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphQL.Infrastructure\\GraphQL.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Infrastructure\\GraphQL.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\greendonut\\11.3.4\\greendonut.11.3.4.nupkg.sha512",
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\hotchocolate.abstractions\\11.3.4\\hotchocolate.abstractions.11.3.4.nupkg.sha512",

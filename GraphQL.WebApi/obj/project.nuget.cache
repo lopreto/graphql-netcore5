@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "s84muKtKd4wFBMXB0ENWjs/2AsXUZBAXRXTwVvkEOloWFCa7HfohF8bRvJsduuGYQ0VNYgafZCnTfeotUQ7Nug==",
+  "dgSpecHash": "Fe6SmnnYNW4x0g+bl0lC6djHZ65k4lpEd6u00wQDOmsR7l+01sxgD4u+UY0XUNYaHKBu4rwStoz/KbaUcETdfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphQL.WebApi\\GraphQL.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.WebApi\\GraphQL.WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\greendonut\\11.3.4\\greendonut.11.3.4.nupkg.sha512",
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\hotchocolate\\11.3.4\\hotchocolate.11.3.4.nupkg.sha512",
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\hotchocolate.abstractions\\11.3.4\\hotchocolate.abstractions.11.3.4.nupkg.sha512",
@@ -85,7 +86,7 @@
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\system.private.datacontractserialization\\4.3.0\\system.private.datacontractserialization.4.3.0.nupkg.sha512",
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\system.private.uri\\4.3.2\\system.private.uri.4.3.2.nupkg.sha512",
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",

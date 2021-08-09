@@ -10,3 +10,17 @@ C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphQL.Implementation\bin\Debug\n
 C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphQL.Implementation\bin\Debug\netstandard2.1\GraphyQL.Domain.pdb
 C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphQL.Implementation\obj\Debug\netstandard2.1\GraphQL.Implementation.csprojAssemblyReference.cache
 C:\Users\Rodrigo Lopreto\source\repos\GraphQL\GraphQL.Implementation\obj\Debug\netstandard2.1\GraphQL.Implementation.csproj.CopyComplete
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\bin\Debug\netstandard2.1\GraphQL.Implementation.deps.json
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\bin\Debug\netstandard2.1\GraphQL.Implementation.dll
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\bin\Debug\netstandard2.1\GraphQL.Implementation.pdb
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\bin\Debug\netstandard2.1\GraphQL.Domain.dll
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\bin\Debug\netstandard2.1\GraphQL.Infrastructure.dll
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\bin\Debug\netstandard2.1\GraphQL.Domain.pdb
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\bin\Debug\netstandard2.1\GraphQL.Infrastructure.pdb
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\obj\Debug\netstandard2.1\GraphQL.Implementation.csprojAssemblyReference.cache
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\obj\Debug\netstandard2.1\GraphQL.Implementation.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\obj\Debug\netstandard2.1\GraphQL.Implementation.AssemblyInfo.cs
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\obj\Debug\netstandard2.1\GraphQL.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\obj\Debug\netstandard2.1\GraphQL.Implementation.csproj.CopyComplete
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\obj\Debug\netstandard2.1\GraphQL.Implementation.dll
+C:\Users\Rodrigo Lopreto\Documents\Repository\graphql-netcore5\GraphQL.Implementation\obj\Debug\netstandard2.1\GraphQL.Implementation.pdb

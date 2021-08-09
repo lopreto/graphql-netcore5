@@ -1,81 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphQL.Implementation\\GraphQL.Implementation.csproj": {}
+    "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Implementation\\GraphQL.Implementation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphQL.Implementation\\GraphQL.Implementation.csproj": {
+    "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Domain\\GraphQL.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphQL.Implementation\\GraphQL.Implementation.csproj",
-        "projectName": "GraphQL.Implementation",
-        "projectPath": "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphQL.Implementation\\GraphQL.Implementation.csproj",
+        "projectUniqueName": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Domain\\GraphQL.Domain.csproj",
+        "projectName": "GraphQL.Domain",
+        "projectPath": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Domain\\GraphQL.Domain.csproj",
         "packagesPath": "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphQL.Implementation\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Rodrigo Lopreto\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netstandard2.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netstandard2.1": {
-            "targetAlias": "netstandard2.1",
-            "projectReferences": {
-              "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphyQL.Domain\\GraphyQL.Domain.csproj": {
-                "projectPath": "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphyQL.Domain\\GraphyQL.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "NETStandard.Library": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphyQL.Domain\\GraphyQL.Domain.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphyQL.Domain\\GraphyQL.Domain.csproj",
-        "projectName": "GraphyQL.Domain",
-        "projectPath": "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphyQL.Domain\\GraphyQL.Domain.csproj",
-        "packagesPath": "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rodrigo Lopreto\\source\\repos\\GraphQL\\GraphyQL.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -109,6 +45,167 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Implementation\\GraphQL.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Implementation\\GraphQL.Implementation.csproj",
+        "projectName": "GraphQL.Implementation",
+        "projectPath": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Implementation\\GraphQL.Implementation.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rodrigo Lopreto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Domain\\GraphQL.Domain.csproj": {
+                "projectPath": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Domain\\GraphQL.Domain.csproj"
+              },
+              "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Infrastructure\\GraphQL.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Infrastructure\\GraphQL.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Infrastructure\\GraphQL.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Infrastructure\\GraphQL.Infrastructure.csproj",
+        "projectName": "GraphQL.Infrastructure",
+        "projectPath": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Infrastructure\\GraphQL.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Rodrigo Lopreto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rodrigo Lopreto\\Documents\\Repository\\graphql-netcore5\\GraphQL.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rodrigo Lopreto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "HotChocolate.Abstractions": {
+              "target": "Package",
+              "version": "[11.3.4, )"
+            },
+            "HotChocolate.Subscriptions": {
+              "target": "Package",
+              "version": "[11.3.4, )"
+            },
+            "HotChocolate.Types": {
+              "target": "Package",
+              "version": "[11.3.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,11 +1,16 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GraphyQL.Domain\GraphyQL.Domain.csproj" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GraphQL.Domain\GraphQL.Domain.csproj" />
+    <ProjectReference Include="..\GraphQL.Infrastructure\GraphQL.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

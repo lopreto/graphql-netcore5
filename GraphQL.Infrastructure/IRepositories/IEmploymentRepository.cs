@@ -8,9 +8,9 @@ namespace GraphQL.Infrastructure.IRepositories
 {
     public interface IEmploymentRepository
     {
-        List<Employment> GetEmployees();
-        Employment GetEmployeeById(Guid id);
-        List<Employment> GetEmployeesWithCompany();
+        Task<List<Employment>> GetEmployees();
+        Task<Employment> GetEmployeeById(Guid id);
+        Task<List<Employment>> GetEmployeesWithCompany();
         Task<Employment> CreateEmployee(Employment employee);
     }
 }
